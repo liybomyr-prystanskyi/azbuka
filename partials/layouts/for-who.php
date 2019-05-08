@@ -1,0 +1,1 @@
+<?php get_template_part('partials/organisms/spanish-courses-content-line-5');

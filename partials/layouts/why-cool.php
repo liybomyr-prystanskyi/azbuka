@@ -1,0 +1,1 @@
+<?php get_template_part('partials/organisms/courses-for-kids-content-line-4');

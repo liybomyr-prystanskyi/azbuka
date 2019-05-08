@@ -1,0 +1,36 @@
+{{#mol-tariffs-items}}
+{{#my-tariffs}}
+<div class="col-12 col-lg-4 tariff-content">
+	<div class="tariffs__main__items">
+		<div class="tariffs__main__items__title">
+			{{#title}}
+			{{{title}}}
+			{{/title}}
+			{{#subtitle}}
+			{{{subtitle}}}
+			{{/subtitle}}
+		</div>
+
+		<div class="tariffs-border">
+			<div class="tariffs__main__items__price">
+				{{#price}}
+				{{{price}}}
+				{{/price}}
+			</div>
+
+			<div class="tariffs__main__items__info">
+				{{#tariff-info}}
+				<p>{{{text}}}</p>
+				{{/tariff-info}}
+			</div>
+
+			{{#btn}}
+			<div class="tariffs__main__items__button">
+				<a href="#">{{{btn}}}</a>
+			</div>
+			{{/btn}}
+		</div>
+	</div>
+</div>
+{{/my-tariffs}}
+{{/mol-tariffs-items}}

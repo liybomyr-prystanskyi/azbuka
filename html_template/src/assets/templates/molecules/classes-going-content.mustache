@@ -1,0 +1,62 @@
+{{#mol-classes-going-content}}
+{{#going-content-slide}}
+<div class="row d-flex flex-wrap {{about-us-reverse}}">
+	<div class="col-12 col-lg-6">
+		{{#img}}
+		<div class="classes-going__main__image">
+			<img src="{{{img}}}" alt="{{{alt}}}">
+		</div>
+		{{/img}}
+		{{#label-teacher}}
+		{{#teacher-namer}}
+		<div class="classes-going__main__text-picture {{classes-going__main__text-picture-yellow-bg}}">
+			<p>{{{teacher-namer}}}</p>
+			<span>{{{position}}}</span>
+		</div>
+		{{/teacher-namer}}
+		{{/label-teacher}}
+
+	</div>
+	<div class="col-12 col-lg-6 d-flex align-items-center">
+		<div class="classes-going__main__content">
+			{{#title}}
+			<div class="classes-going__main__content__title {{international-exams__title}}">
+				<h2>{{{title}}}</h2>
+			</div>
+			{{/title}}
+
+			{{#text}}
+			<div class="classes-going__main__content__text">
+				<p>{{{text}}}</p>
+			</div>
+			{{/text}}
+			{{#blockquote}}
+			<div class="classes-going__main__content__quote {{blockquote-violet-bg}}">
+				<blockquote>
+					{{{blockquote}}}
+				</blockquote>
+			</div>
+			{{/blockquote}}
+
+			{{#international-exams-quote-text}}
+			<div class="classes-going__main__content__quote__international">
+				<p>
+					{{{international-exams-quote-text}}}
+				</p>
+			</div>
+			{{/international-exams-quote-text}}
+			<div
+				class="classes-going__main__content__quote__list {{classes-about-us-list-color}} {{spanish-courses-list-color}}">
+				<ul>
+					{{#international-exams-quote__lists}}
+					{{#li}}
+					<li>{{{li}}}</li>
+					{{/li}}
+					{{/international-exams-quote__lists}}
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+{{/going-content-slide}}
+{{/mol-classes-going-content}}

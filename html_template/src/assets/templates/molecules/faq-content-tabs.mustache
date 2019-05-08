@@ -1,0 +1,44 @@
+{{#mol-faq-content-tabs}}
+<div class="row justify-content-around">
+	{{#tabs}}
+	<div class="col-6 col-lg-5 text-center tab-style-1 {{left-border}} {{bottom-border}}">
+		{{#border-style-left}}
+		{{#question-1}}
+		<a href="#" class="b-question" data-target="{{{attribute-1}}}">
+			{{{question-1}}}
+		</a>
+		{{/question-1}}
+		{{/border-style-left}}
+	</div>
+	<div class="col-lg-5 col-6 text-center tab-style-1 {{left-border}} {{bottom-border}}">
+		{{#question-2}}
+		<a href="#" class="b-question" data-target="{{{attribute-2}}}">
+			{{{question-2}}}
+		</a>
+		{{/question-2}}
+	</div>
+	<div class="col-12">
+		<div id="{{{answer-id-1}}}" class="b-answer">
+			{{#answer-1}}
+			<p>
+				{{{answer-1}}}
+			</p>
+			{{/answer-1}}
+			{{#span-1}}
+			<span>{{{span-1}}}</span>
+			{{/span-1}}
+		</div>
+		<div id="{{{answer-id-2}}}" class="b-answer">
+			{{#answer-2}}
+			<p>
+				{{{answer-2}}}
+			</p>
+			{{/answer-2}}
+			{{#span-2}}
+			<span>{{{span-2}}}</span>
+			{{/span-2}}
+		</div>
+	</div>
+	{{/tabs}}
+</div>
+{{/mol-faq-content-tabs}}

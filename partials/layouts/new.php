@@ -1,0 +1,1 @@
+<?php get_template_part('partials/organisms/adult-courses-content-lien-3');

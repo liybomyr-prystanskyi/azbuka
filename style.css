@@ -1,0 +1,27 @@
+/*
+Theme Name: Azbuka Svitu
+Author: Simplify
+Author URI: http://smplfy.eu/
+Version: 1.0
+Text Domain: azbukasvitu
+*/
+.toefl__main__form__input-block.wpcf7-form span,
+.apostyle__main__form__input-block.wpcf7-form span,
+.wpcf7-form .contact__main__input span,
+.written__main__form__input-block.wpcf7-form span {
+    max-width: initial;
+}
+.toefl__main__form__input-block.wpcf7-form input,
+.apostyle__main__form__input-block.wpcf7-form input,
+.wpcf7-form .contact__main__input input,
+.written__main__form__input-block.wpcf7-form input {
+    margin-top: 9px;
+}
+
+body.logged-in .no-scroll{
+    top: 32px;
+}
+
+.my-nav .dropdown-toggle::after {
+    display: none;
+}

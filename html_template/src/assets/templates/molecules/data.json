@@ -1,0 +1,91 @@
+{
+	"mol-title-h1-default": {
+		"title": "<p>Азбука Світу -<span>ЦЕ </span></p>"
+	},
+	"mol-info-and-img": {
+		"href": "Обрати свій курс",
+		"title": "Мовні курси",
+		"my-list": [
+			{
+				"link": "Курси для дорослих"
+			},
+			{
+				"link": "Курси для дітей"
+			},
+			{
+				"link": "ЗНО"
+			},
+			{
+				"link": "Підготовка до школи"
+			},
+			{
+				"link": "Пробне заняття"
+			},
+			{
+				"link": "Онлайн навчання"
+			},
+			{
+				"link": "Тести"
+			}
+		],
+		"image": "assets/img/play-img-green.png"
+	},
+	"mol-company-logos": [
+		{
+			"img": "assets/img/fedex-color.png",
+			"alt": "logo-1"
+		},
+		{
+			"img": "assets/img/cargo-omover-color.png",
+			"alt": "logo-2"
+		},
+		{
+			"img": "assets/img/lawyers-color.png",
+			"alt": "logo-3"
+		},
+		{
+			"img": "assets/img/company-4.png",
+			"alt": "logo-4"
+		},
+		{
+			"img": "assets/img/folex-color.png",
+			"alt": "logo-5"
+		}
+	],
+	"mol-trust-azbyka-content": {
+		"title": "1",
+		"description": "<p>2 базових заняття на тиждень <span>+ 1 факультатив</span></p>",
+		"img": "assets/img/trust-yellow.png",
+		"alt": "yellow-bg"
+	},
+	"mol-aplication-section": true,
+	"mol-city-center-content": true,
+	"mol-city-center-content-2": true,
+	"mol-language-buttons": true,
+	"mol-written-translation-left-info": {
+		"title1": "Швидкий та достовірний",
+		"title2": "Переклад",
+		"description1": "Це місце де ви можете отримати високоякісний переклад, як <span>письмовий</span> так і <span>усний</span> .",
+		"description2": "Десятки мов світу, кваліфіковані перекладачі, редакторська вичитка - це лише невелика доля того, за що нас довіряють клієнти."
+	},
+	"mol-our-courses-content": true,
+	"mol-alphabet-specialists-content": true,
+	"mol-classes-going-content": true,
+	"mol-courses-for-kids-baner": true,
+	"mol-we-realize-oral-section-content": true,
+	"mol-why-we-cool-content": true,
+	"mol-international-exams-baner-content": true,
+	"mol-certificate-section-content": true,
+	"mol-useful-spanish-courses-content": true,
+	"mol-trust-top-content": true,
+	"mol-trust-bottom-content": true,
+	"mol-trust-numeric-bottom-block": true,
+	"mol-international-exams-more-btn": true,
+	"mol-calendar-block-title":true,
+	"mol-calendar-item-title":{
+		"title-item":"Рівень А"
+	},
+	"mol-calendar-content":true,
+	"mol-tariffs-items":true,
+	"mol-faq-content-tabs":true
+}

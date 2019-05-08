@@ -1,0 +1,31 @@
+{{#mol-certificate-section-content}}
+<div class="row d-flex">
+	<div class="col-12 col-md-6 col-lg-6">
+		<div class="certificate-section__main__image">
+			<img src="{{{image}}}" alt="{{{alt}}}">
+		</div>
+	</div>
+	<div class="col-12 col-md-6 col-lg-6">
+		<div class="certificate-section__main__info">
+			<h2>
+				{{{title}}}
+			</h2>
+			<ul>
+				{{#list}}
+				{{#li}}
+				<li>
+					{{{li}}}
+				</li>
+				{{/li}}
+				{{/list}}
+			</ul>
+			{{#description}}
+			<div class="certificate-section__main__info__text">
+				<p>{{{text-1}}}</p>
+				<p>{{{text-2}}}</p>
+			</div>
+			{{/description}}
+		</div>
+	</div>
+</div>
+{{/mol-certificate-section-content}}

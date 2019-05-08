@@ -1,0 +1,33 @@
+{{#mol-info-and-img}}
+<div class="padding-bottom">
+	<div class="row main-content">
+		<div class="col-12 col-lg-6">
+			<div class="block-info">
+				{{#title}}
+				<h2>{{{title}}}</h2>
+				{{/title}}
+				<ul>
+					{{#my-list}}
+					{{#link}}
+					<li><a href="#">{{{link}}}</a> </li>
+					{{/link}}
+					{{/my-list}}
+				</ul>
+
+				{{#href}}
+				<a href="#" class="default-btn">{{{href}}}</a>
+				{{/href}}
+			</div>
+		</div>
+		<div class="col-12 col-lg-6">
+			{{#image}}
+			<div class="block-image" style="background-image:url({{{bg-img}}});">
+				<div class="btn-play">
+					<img src="{{{image}}}" alt="play">
+				</div>
+			</div>
+			{{/image}}
+		</div>
+	</div>
+</div>
+{{/mol-info-and-img}}

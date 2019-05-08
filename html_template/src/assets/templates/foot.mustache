@@ -1,0 +1,77 @@
+{{#foot}}
+{{#vendor-scripts}}
+{{#jquery}}
+<!-- Jquery -->
+<script src="assets/js/vendors/jquery-3.3.1.js"></script>
+{{/jquery}}
+
+{{#nice-select}}
+<script src="assets/js/vendors/nice-select.js"></script>
+{{/nice-select}}
+
+{{#slick-slider}}
+<!-- Slick slider -->
+<script src="assets/js/vendors/slick.min.js"></script>
+{{/slick-slider}}
+{{#aos}}
+<!-- Animate on scroll -->
+<script src="assets/js/vendors/aos.js"></script>
+{{/aos}}
+{{#bootstrap}}
+<!-- Bootstrap -->
+<script src="assets/js/vendors/bootstrap.js"></script>
+{{/bootstrap}}
+
+{{#map}}
+<!-- Map -->
+<script>
+  function getLocations() {
+    var locations = [];
+    $('.map-target').each(function (index) {
+      locations.push({
+        "title": "Location " + (index + 1),
+        "str": $(this).attr('data-str'),
+        "position": {
+          lat: +$(this).attr('data-lat-lng').split(',')[0],
+          lng: +$(this).attr('data-lat-lng').split(',')[1]
+        }
+      });
+    });
+    return locations;
+  }
+  function initMap() {
+    var locations2 = getLocations();
+    gmarkers = [];
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 12,
+      center: new google.maps.LatLng(49.825013, 24.011276),
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+    var infowindow = new google.maps.InfoWindow();
+    function createMarker(latlng, html) {
+      var marker = new google.maps.Marker({
+        position: latlng,
+        map: map
+      });
+      google.maps.event.addListener(marker, 'click', function () {
+        infowindow.setContent(html);
+        infowindow.open(map, marker);
+      });
+      return marker;
+    }
+    for (var i = 0; i < locations2.length; i++) {
+      gmarkers[locations2[i]['title']] =
+        createMarker(locations2[i]['position'], locations2[i]['str']);
+    }
+  }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDoLs4jh4_7ZW16LDVDAXDPGISWv9RN-x8&callback=initMap" async
+  defer></script>
+{{/map}}
+{{/vendor-scripts}}
+
+<script src="assets/js/script.min.js"></script>
+</body>
+
+</html>
+{{/foot}}

@@ -1,0 +1,67 @@
+{{#mol-courses-for-kids-baner}}
+<div class="courses-for-kids__main">
+	<div class="row justify-content-end">
+		<div class="col-12 col-lg-5">
+			<div class="courses-for-kids__main__content">
+				{{#title-1}}
+				<div class="courses-for-kids__main__content__title">
+					<h1>{{{title-1}}}</h1>
+					<h2>{{{title-2}}}</h2>
+				</div>
+				{{/title-1}}
+				<div class="courses-for-kids__main__content__form">
+					{{#subtitle}}
+					<div class="courses-for-kids__main__content__form__subtitle">
+						<h3>{{{subtitle}}}</h3>
+					</div>
+					{{/subtitle}}
+					{{#adult-options}}
+					<div class="written__main__form__input-block__select-1">
+						<select>
+							<option data-display="Мова">Мова</option>
+							<option value="1">Англійська</option>
+							<option value="2">Іспанська</option>
+							<option value="3">Німецька</option>
+						</select>
+						<select>
+							<option data-display="Групове (безкоштовно)">Групове (безкоштовно)</option>
+							<option value="1">Медичний</option>
+							<option value="2">Технічний</option>
+							<option value="3">Літературний</option>
+						</select>
+					</div>
+					{{/adult-options}}
+					{{#our-courses-options}}
+					<div class="written__main__form__input-block__select-1">
+						<select>
+							<option data-display="Оберіть мову">Оберіть мову</option>
+							<option value="1">Англійська</option>
+							<option value="2">Іспанська</option>
+							<option value="3">Німецька</option>
+						</select>
+						<select>
+							<option data-display="Групове (безкоштовно)">Групове (безкоштовно)</option>
+							<option value="1">Індивідуальне(200грн)</option>
+						</select>
+					</div>
+					{{/our-courses-options}}
+					<div class="courses-for-kids__main__content__form__input">
+						<input type="text" id="input-name" placeholder="Ваше імя">
+						<input id="phone" type="text" placeholder="Телефон" />
+					</div>
+					{{#button}}
+					<div class="courses-for-kids__main__content__form__button">
+						<input type="submit" value="{{{button}}}" id="input-submit">
+					</div>
+					{{/button}}
+					{{#description}}
+					<div class="courses-for-kids__main__content__form__description">
+						<p>{{{description}}}</p>
+					</div>
+					{{/description}}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{{/mol-courses-for-kids-baner}}

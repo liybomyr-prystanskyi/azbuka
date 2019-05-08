@@ -1,0 +1,25 @@
+{{#org-lessons-schedule-content-line-2}}
+<section class="calendar">
+	<div class="container">
+		<div class="calendar__main">
+			<div class="calendar__main__title">
+				{{> ../molecules/calendar-block-title}}
+			</div>
+			<div class="row">
+				{{#calendar-col}}
+				<div class="col-12 col-md-4 col-lg-4">
+					<div class="calendar__main__item">
+						<div class="calendar__main__item__title">
+							{{> ../molecules/calendar-item-title}}
+						</div>
+						<div class="calendar__main__item__times">
+							{{> ../molecules/calendar-content}}
+						</div>
+					</div>
+				</div>
+				{{/calendar-col}}
+			</div>
+		</div>
+	</div>
+</section>
+{{/org-lessons-schedule-content-line-2}}

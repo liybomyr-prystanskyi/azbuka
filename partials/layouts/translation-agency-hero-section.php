@@ -1,0 +1,1 @@
+<?php get_template_part('partials/organisms/translation-agency-content-liene-1');

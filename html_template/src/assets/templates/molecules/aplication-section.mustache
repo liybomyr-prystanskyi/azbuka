@@ -1,0 +1,22 @@
+{{#mol-aplication-section}}
+<div class="row justify-content-between">
+	<div class="col-12 col-lg-8">
+		<div class="application-section__main__info">
+			{{{title}}}
+			{{#description}}
+			<p>
+				{{{description}}}
+			</p>
+			{{/description}}
+
+		</div>
+	</div>
+	<div class="col-12 col-lg-4">
+		{{#href}}
+		<div class="application-section__main__button " data-toggle="modal" data-target="#myModal1">
+			<a href="#">{{{href}}}</a>
+		</div>
+		{{/href}}
+	</div>
+</div>
+{{/mol-aplication-section}}

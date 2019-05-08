@@ -1,0 +1,537 @@
+{
+	"org-home-menu": true,
+	"org-home-content-line-1": true,
+	"org-home-content-line-2": {
+		"mol-title-h1-default": {
+			"title": "<p>Азбука Світу -<span>ЦЕ </span></p>"
+		},
+		"content": [
+			{
+				"mol-info-and-img": {
+					"href": "Обрати свій курс",
+					"title": "Мовні курси",
+					"my-list": [
+						{
+							"link": "Курси для дорослих"
+						},
+						{
+							"link": "Курси для дітей"
+						},
+						{
+							"link": "ЗНО"
+						},
+						{
+							"link": "Підготовка до школи"
+						},
+						{
+							"link": "Пробне заняття"
+						},
+						{
+							"link": "Онлайн навчання"
+						},
+						{
+							"link": "Тести"
+						}
+					],
+					"image": "assets/img/play-img-green.png"
+				}
+			},
+			{
+				"mol-info-and-img": {
+					"href": "Обрати свій курс",
+					"title": "Мовні курси",
+					"my-list": [
+						{
+							"link": "Курси для дорослих"
+						},
+						{
+							"link": "Курси для дітей"
+						},
+						{
+							"link": "ЗНО"
+						},
+						{
+							"link": "Підготовка до школи"
+						},
+						{
+							"link": "Пробне заняття"
+						},
+						{
+							"link": "Онлайн навчання"
+						},
+						{
+							"link": "Тести"
+						}
+					],
+					"image": "assets/img/play-img-green.png"
+				}
+			},
+			{
+				"mol-info-and-img": {
+					"href": "Обрати свій курс",
+					"title": "Мовні курси",
+					"my-list": [
+						{
+							"link": "Курси для дорослих"
+						},
+						{
+							"link": "Курси для дітей"
+						},
+						{
+							"link": "ЗНО"
+						},
+						{
+							"link": "Підготовка до школи"
+						},
+						{
+							"link": "Пробне заняття"
+						},
+						{
+							"link": "Онлайн навчання"
+						},
+						{
+							"link": "Тести"
+						}
+					],
+					"image": "assets/img/play-img-green.png"
+				}
+			}
+		]
+	},
+	"org-home-content-line-3": {
+		"mol-trust-top-content": {
+			"description": "Наш центр іноземних мов є одним із найбільших у Львові.Станом на кінець 2018 року у нас <span>3 філії</span> у місті, <span>онлайн-школа</span> , яка навчає по усій Україні, потужне <span> бюро перекладів</span>, яке обрали визначні Українські компанії.",
+			"title": "І це ще не все:"
+		},
+		"mol-trust-bottom-content": {
+			"bg-image": "assets/img/numbers-block-bg.png"
+		},
+		"mol-trust-numeric-bottom-block": {
+			"text": "<span>1.</span> Ліцензія Міністерства освіти"
+		}
+	},
+	"org-home-content-line-4": true,
+	"org-home-content-line-5": {
+		"mol-title-h1-default": {
+			"title": "<p>Про нас в цифрах</p>"
+		}
+	},
+	"org-home-content-line-6": true,
+	"org-home-content-line-7": true,
+	"org-home-content-line-8": {
+		"mol-title-h1-default": {
+			"title": "<p>Наші сертифікати</p>"
+		},
+		"mol-certificate-section-content": true
+	},
+	"org-company-logo": {
+		"mol-title-h1-default": {
+			"title": "<p>Нам довіряють</p>"
+		},
+		"mol-company-logos": [
+			{
+				"img": "assets/img/fedex-color.png",
+				"alt": "logo-1"
+			},
+			{
+				"img": "assets/img/cargo-omover-color.png",
+				"alt": "logo-2"
+			},
+			{
+				"img": "assets/img/lawyers-color.png",
+				"alt": "logo-3"
+			},
+			{
+				"img": "assets/img/company-4.png",
+				"alt": "logo-4"
+			},
+			{
+				"img": "assets/img/folex-color.png",
+				"alt": "logo-5"
+			}
+		]
+	},
+	"org-oral-translation-content-line-1": true,
+	"org-oral-translation-content-line-2": {
+		"mol-title-h1-default": {
+			"title": "<p>Оберіть потрібну категорію</p>"
+		}
+	},
+	"org-oral-translation-content-line-3": {
+		"mol-title-h1-default": {
+			"title": "<p>Чому варто довірити переклад Азбуці Світу</p>"
+		},
+		"mol-trust-azbyka-content": [
+			{
+				"title": "1",
+				"description": "<p>2 базових заняття на тиждень <span>+ 1 факультатив</span></p>",
+				"img": "assets/img/trust-yellow.png",
+				"alt": "yellow-bg"
+			},
+			{
+				"title": "2",
+				"description": "<p>1 заняття на тиждень<span>з носієм мови</span></p>",
+				"img": "assets/img/trust-yellow.png",
+				"alt": "yellow-bg"
+			},
+			{
+				"title": "3",
+				"description": "<p>1 заняття на тиждень <span>з носієм мови</span></p>",
+				"img": "assets/img/trust-yellow.png",
+				"alt": "yellow-bg"
+			},
+			{
+				"title": "4",
+				"description": "<p><span>6 навчальних рівнів </span>по 2,5 місяці.</p>",
+				"img": "assets/img/trust-yellow.png",
+				"alt": "yellow-bg"
+			}
+		]
+	},
+	"org-oral-translation-content-line-4": {
+		"mol-aplication-section": {
+			"title": "<h1>Замовляйте переклад у<span>Азбуці Світу</span></h1>",
+			"description": "Заповніть заявку та протягом дня з Вами зконтактується менеджер,для узгодження зручного для Вас часу",
+			"href": "Залишити заявку"
+		}
+	},
+	"org-oral-translation-content-line-5": {
+		"mol-title-h1-default": {
+			"title": "<p>Що пропонує наш центр перекладів у Львові</p>"
+		},
+		"mol-city-center-content": {
+			"text": [
+				{
+					"description": "Наше професійне бюро перекладів - це завжди якісний переклад для широкого контингенту замовників, перекладачі з великим досвідом роботи, завдання будь-якого ступеня складності та економія часу і коштів клієнтів. Також мі пропонуємо синхронний переклад у Львові. При ділових переговорах з іноземними партнерами та клієнтами, ви зможете звернутися в наш центр та замовити усні переклади у Львові. Центр перекладів дасть вам можливість отримати максимально точний, правильний і швидкий переклад документів ЗАГС, паспортів, дипломів, довідок, банківських виписок."
+				},
+				{
+					"description": " Стандартно, центр перекладу у Львові також здійснює технічні переклади текстів, інструкцій, посібників користування складними технічними виробами, наукових статей, науково-технічної літератури та інших матеріалів технічного характеру. Тематика таких перекладів дуже широка: авіація, будівництво, суднобудування, енергетика, електроніка, металургія, фізика, промисловість, медицина і т.д."
+				}
+			]
+		}
+	},
+	"org-oral-translation-content-line-6": {
+		"mol-title-h1-default": {
+			"title": "<p>Чому варто обрати наш центр перекладу у Львові</p>"
+		},
+		"mol-city-center-content-2": {
+			"description-1": "У ситуаціях коли переклад потрібно здійснити в стислі терміни - центр перекладів стане вашим незамінним помічником. У таких випадках, залучаються найкращі перекладачі й робота над замовленням йде в прискореному режимі. Вибираючи наш центр варто звернути увагу на такі критерії, що надаються:",
+			"lists": [
+				{
+					"li": "Якість. Ми гарантуємо правильність та точність, особливо якщо йде мова про технічний переклад у Львові;"
+				},
+				{
+					"li": "Швидкість. Наші переклади виконуюся завжди вчасно, швидко, без штучного затягування строків;"
+				},
+				{
+					"li": "Надійність. Наш центр має штат професійних співробітників та виконує переклад тексту у Львові в точній відповідності з побажаннями клієнта;"
+				},
+				{
+					"li": "Комплексність. Крім перекладу, в нас виконується ще й нотаріальне засвідчення, апостиль, легалізація в посольстві, тощо;"
+				}
+			],
+			"description-2": "Наш центр перекладів вирішить будь-які завдання, пов'язані з перекладами з іноземних мов. Звернувшись до нас, ви істотно заощадите свій час та гроші.Часом, в наш центр подаються такі документи, які можуть вплинути на комерційну діяльність компанії. Зрозуміло,переклади у Львові подібних текстів вимагають не тільки спеціалізованих знань, але і порядності. В кваліфікації та чесності наших співробітників ви можете не сумніватися!"
+		}
+	},
+	"org-oral-translation-content-line-7": {
+		"mol-title-h1-default": {
+			"title": "<p>Мови з якими ми працюємо</p>"
+		},
+		"mol-language-buttons": {
+			"written-btn-item": "written-btn-item",
+			"buttons": [
+				{
+					"img": "assets/img/flag-1.png",
+					"alt": "img-1",
+					"description": "Англійська"
+				},
+				{
+					"img": "assets/img/pol-flag.png",
+					"alt": "img-1",
+					"description": "Польська"
+				},
+				{
+					"img": "assets/img/germ-flag.png",
+					"alt": "img-1",
+					"description": "Німецька"
+				},
+				{
+					"img": "assets/img/esp-flag.png",
+					"alt": "img-1",
+					"description": "Іспанська"
+				},
+				{
+					"img": "assets/img/italy-flag.png",
+					"alt": "img-1",
+					"description": "Італійська"
+				},
+				{
+					"img": "assets/img/franc-flag.png",
+					"alt": "img-1",
+					"description": "Французька"
+				},
+				{
+					"img": "assets/img/chesh-flag.png",
+					"alt": "img-1",
+					"description": "Чеська"
+				},
+				{
+					"img": "assets/img/china-flag.png",
+					"alt": "img-1",
+					"description": "Китайська"
+				},
+				{
+					"img": "assets/img/jap-flag.png",
+					"alt": "img-1",
+					"description": "Японська"
+				}
+			]
+		}
+	},
+	"org-written-translation-content-line-1": {
+		"mol-written-translation-left-info": {
+			"title1": "Швидкий та достовірний",
+			"title2": "Переклад",
+			"description1": "Це місце де ви можете отримати високоякісний переклад, як <span>письмовий</span> так і <span>усний</span> .",
+			"description2": "Десятки мов світу, кваліфіковані перекладачі, редакторська вичитка - це лише невелика доля того, за що нас довіряють клієнти."
+		}
+	},
+	"org-foot-menu": true,
+	"org-footer-main": true,
+	"org-we-realize": {
+		"mol-title-h1-default": {
+			"title": "Ми здійснюємо"
+		}
+	},
+	"org-apostyle-sertificate": true,
+	"org-our-courses-content-line-1": {
+		"mol-language-buttons": true,
+		"mol-title-h1-default": {
+			"title": "Наші курси"
+		},
+		"mol-info-and-img": {
+			"href": "Обрати свій курс",
+			"title": "Мовні курси",
+			"my-list": [
+				{
+					"link": "Курси для дорослих"
+				},
+				{
+					"link": "Курси для дітей"
+				},
+				{
+					"link": "ЗНО"
+				},
+				{
+					"link": "Підготовка до школи"
+				},
+				{
+					"link": "Пробне заняття"
+				},
+				{
+					"link": "Онлайн навчання"
+				},
+				{
+					"link": "Тести"
+				}
+			],
+			"image": "assets/img/play-img-green.png"
+		},
+		"mol-our-courses-content": {}
+	},
+	"org-courses-for-kids-content-line-2": {
+		"mol-title-h1-default": {
+			"title": "<p>Чому Азбука - ефективний? </p>"
+		},
+		"mol-alphabet-specialists-content": {
+			"slide-content": [
+				{
+					"title": " <span>По - перше:</span> це спеціалісти",
+					"text-1": "Перш ніж записатись на курс, вам необхідно буде визначити власний рівень володіння іноземною мовою. Зробити це можна онлайн, скориставшись відповідною послугою на нашому сайті. Визначити рівень знання англійської вам також можуть допомогти наші спеціалісти. Це дозволить підібрати найбільш оптимальний варіант навчання та отримати максимальний ефект від занять.",
+					"text-2": "Провідних навчальних закладів, на основі якого створюємо власну ефективну та унікальну методику викладання.",
+					"img": "assets/img/for-kids-line-2.png",
+					"alt": "image1"
+				},
+				{
+					"title": " <span>По - перше:</span> це спеціалісти",
+					"text-1": "Перш ніж записатись на курс, вам необхідно буде визначити власний рівень володіння іноземною мовою. Зробити це можна онлайн, скориставшись відповідною послугою на нашому сайті. Визначити рівень знання англійської вам також можуть допомогти наші спеціалісти. Це дозволить підібрати найбільш оптимальний варіант навчання та отримати максимальний ефект від занять.",
+					"text-2": "Провідних навчальних закладів, на основі якого створюємо власну ефективну та унікальну методику викладання.",
+					"img": "assets/img/for-kids-line-2.png",
+					"alt": "image1"
+				},
+				{
+					"title": " <span>По - перше:</span> це спеціалісти",
+					"text-1": "Перш ніж записатись на курс, вам необхідно буде визначити власний рівень володіння іноземною мовою. Зробити це можна онлайн, скориставшись відповідною послугою на нашому сайті. Визначити рівень знання англійської вам також можуть допомогти наші спеціалісти. Це дозволить підібрати найбільш оптимальний варіант навчання та отримати максимальний ефект від занять.",
+					"text-2": "Провідних навчальних закладів, на основі якого створюємо власну ефективну та унікальну методику викладання.",
+					"img": "assets/img/for-kids-line-2.png",
+					"alt": "image1"
+				}
+			]
+		}
+	},
+	"org-courses-for-kids-content-line-3": {
+		"mol-title-h1-default": {
+			"title": "<p><span> Як </span> відбуваються заняття? </p>"
+		},
+		"mol-classes-going-content": true
+	},
+	"org-courses-for-kids-content-line-4": {
+		"mol-title-h1-default": {
+			"title": "Чому ми круті?"
+		},
+		"mol-why-we-cool-content": true
+	},
+	"org-contact-line-1": true,
+	"org-contact-line-2": {
+		"mol-title-h1-default": {
+			"title": "Контакти"
+		}
+	},
+	"org-courses-for-kids-content-line-1": {
+		"mol-courses-for-kids-baner": true
+	},
+	"org-internatonal-exams-baner": {
+		"baner-image": "assets/img/international-exams-baner-bg.png",
+		"mol-international-exams-baner-content": true
+	},
+	"org-international-exams-content-line-2": {
+		"mol-title-h1-default": {
+			"title": "<p>Азбука Світу -<span>ЦЕ </span></p>"
+		}
+	},
+	"org-oral-translation-content-line-8": {
+		"mol-title-h1-default": {
+			"title": "<p>Ми здійснюємо</p>"
+		},
+		"mol-we-realize-oral-section-content": true
+	},
+	"org-toefl-content-line-1": true,
+	"org-adult-courses-content-lien-3": true,
+	"org-about-us-video-block": true,
+	"org-org-translation-agency-content-liene-1": true,
+	"org-spanish-courses-content-line-5": {
+		"mol-title-h1-default": {
+			"title": "<p>Для кого будуть корисними наші курси</p>"
+		},
+		"mol-useful-spanish-courses-content": true
+	},
+	"org-modals-window": true,
+	"org-useful-information-content-line-1":true,
+	"org-lessons-schedule-content-line-1":true,
+	"org-lessons-schedule-content-line-2":{
+		"mol-calendar-block-title":true,
+		"mol-calendar-item-title":{
+			"title-item":"Рівень А"
+		},
+		"mol-calendar-content":true
+	},
+	"org-tariffs-content-line-1":{
+		"mol-title-h1-default": {
+			"title": "<p>Тарифи</p>",
+			"text": "Тарифи Азбуки Світу - демократичні, прозорі та лояльні до студентів. Наша ціна - оптимальна, за той рівень знань, який ви отримаєте після проходження курсу."
+		},
+		"mol-tariffs-items":{
+			"my-tariffs":[
+				{
+					"title": "<h2>Група:<span>ДОРОСЛІ</span></h2>",
+					"subtitle": "<h3>стадартний інтенсив</h3>",
+					"price": "<p>2780 <span>курс</span></p>",
+					"tariff-info": [
+						{
+							"text": "2 заняття/тиждень"
+						},
+						{
+							"text": "1 заняття - 60хв"
+						},
+						{
+							"text": "1 курс - 10 тижнів"
+						}
+					],
+					"btn": "Замовити курс"
+				},
+
+				{
+					
+					"title": "<h2>Група:<span>ДОРОСЛІ</span></h2>",
+					"subtitle": "<h3>стадартний інтенсив+носій мови</h3>",
+					"price": "<p>3580 <span>курс</span></p>",
+					"tariff-info": [
+						{
+							"text": "2 заняття/тиждень"
+						},
+						{
+							"text": "1 заняття - 60хв"
+						},
+						{
+							"text": "1 курс - 10 тижнів"
+						}
+					],
+					"btn": "Замовити курс"
+				},
+
+				{
+					"title": "<h2>Група:<span>ДІТИ</span></h2>",
+					"subtitle": "<h3>стадартний інтенсив</h3>",
+					"price": "<p>1875 <span>курс</span></p>",
+					"tariff-info": [
+						{
+							"text": "2 заняття/тиждень"
+						},
+						{
+							"text": "1 заняття - 60хв"
+						},
+						{
+							"text": "1 курс - 10 тижнів"
+						}
+					],
+					"btn": "Замовити курс"
+				},
+
+				{
+					"title": "<h2>Група:<span>ДОРОСЛІ</span></h2>",
+					"subtitle": "<h3>Індивідуальні заняття</h3>",
+					"price": "<p><span>від</span>200 <span>заняття</span></p>",
+					"tariff-info": [
+						{
+							"text": "2 заняття/тиждень"
+						},
+						{
+							"text": "1 заняття - 60хв"
+						},
+						{
+							"text": "1 курс - 10 тижнів"
+						}
+					],
+					"btn": "Записатись"
+				},
+				{
+					"title": "<h2>Група:<span>ДОРОСЛІ</span></h2>",
+					"subtitle": "<h3>стадартний інтенсив</h3>",
+					"price": "<p><span>від</span>160 <span>заняття</span></p>",
+					"tariff-info": [
+						{
+							"text": "2 заняття/тиждень"
+						},
+						{
+							"text": "1 заняття - 60хв"
+						},
+						{
+							"text": "1 курс - 10 тижнів"
+						}
+					],
+					"btn": "Записатись"
+				}
+		]
+		}
+
+
+
+
+	},
+	"org-faq-content-line-1":{
+		"mol-faq-content-tabs":true,
+		"mol-title-h1-default": {
+			"title": "<p>Важливі питання</p>"
+		}
+	}
+}

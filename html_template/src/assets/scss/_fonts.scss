@@ -1,0 +1,151 @@
+/* Variables */
+$fontPath: '../fonts';
+
+
+/* shadows-into-light-regular - latin */
+@font-face {
+  font-family: 'black';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/black/PFHandbookPro-Black.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-Black'), local('PFHandbookPro-Black'),
+       url('#{$fontPath}/black/PFHandbookPro-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/black/PFHandbookPro-Black.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/black/PFHandbookPro-Black.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/black/PFHandbookPro-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'black-italic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/black-italic/PFHandbookPro-BlackItalic.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-BlackItalic'), local('PFHandbookPro-BlackItalic'),
+       url('#{$fontPath}/black-italic/PFHandbookPro-BlackItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/black-italic/PFHandbookPro-BlackItalic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/black-italic/PFHandbookPro-BlackItalic.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/black-italic/PFHandbookPro-BlackItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/bold/PFHandbookPro-Bold.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-Bold'), local('PFHandbookPro-Bold'),
+       url('#{$fontPath}/bold/PFHandbookPro-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/bold/PFHandbookPro-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/bold/PFHandbookPro-Bold.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/bold/PFHandbookPro-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'bold-italic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/bold-italic/PFHandbookPro-BoldItalic.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-BoldItalic'), local('PFHandbookPro-BoldItalic'),
+       url('#{$fontPath}/bold-italic/PFHandbookPro-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/bold-italic/PFHandbookPro-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/bold-italic/PFHandbookPro-BoldItalic.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/bold-italic/PFHandbookPro-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'extra-thin';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/extra-thin/PFHandbookPro-ExtraThin.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-ExtraThin'), local('PFHandbookPro-ExtraThin'),
+       url('#{$fontPath}/extra-thin/PFHandbookPro-ExtraThin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/extra-thin/PFHandbookPro-ExtraThin.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/extra-thin/PFHandbookPro-ExtraThin.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/extra-thin/PFHandbookPro-ExtraThin.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'extra-thin-italic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/extra-thin-italic/PFHandbookPro-ExtraThinItalic.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-ExtraThinItalic'), local('PFHandbookPro-ExtraThinItalic'),
+       url('#{$fontPath}/extra-thin-italic/PFHandbookPro-ExtraThinItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/extra-thin-italic/PFHandbookPro-ExtraThinItalic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/extra-thin-italic/PFHandbookPro-ExtraThinItalic.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/extra-thin-italic/PFHandbookPro-ExtraThinItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'italic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/italic/PFHandbookPro-Italic.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-Italic'), local('PFHandbookPro-Italic'),
+       url('#{$fontPath}/italic/PFHandbookPro-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/italic/PFHandbookPro-Italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/italic/PFHandbookPro-Italic.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/italic/PFHandbookPro-Italic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'medium';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/medium/PFHandbookPro-Medium.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-Medium'), local('PFHandbookPro-Medium'),
+       url('#{$fontPath}/medium/PFHandbookPro-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/medium/PFHandbookPro-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/medium/PFHandbookPro-Medium.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/medium/PFHandbookPro-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+
+@font-face {
+  font-family: 'medium-italic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/medium-italic/PFHandbookPro-MedItalic.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-MedItalic'), local('PFHandbookPro-MedItalic'),
+       url('#{$fontPath}/medium-italic/PFHandbookPro-MedItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/medium-italic/PFHandbookPro-MedItalic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/medium-italic/PFHandbookPro-MedItalic.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/medium-italic/PFHandbookPro-MedItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+
+@font-face {
+  font-family: 'regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/regular/PFHandbookPro-Regular.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-Regular'), local('PFHandbookPro-Regular'),
+       url('#{$fontPath}/regular/PFHandbookPro-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/regular/PFHandbookPro-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/regular/PFHandbookPro-Regular.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/regular/PFHandbookPro-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+
+@font-face {
+  font-family: 'thin-italic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/thin-italic/PFHandbookPro-ThinItalic.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-ThinItalic'), local('PFHandbookPro-ThinItalic'),
+       url('#{$fontPath}/thin-italic/PFHandbookPro-ThinItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/thin-italic/PFHandbookPro-ThinItalic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/thin-italic/PFHandbookPro-ThinItalic.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/thin-italic/PFHandbookPro-ThinItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'thin';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fontPath}/thin/PFHandbookPro-Thin.eot'); /* IE9 Compat Modes */
+  src: local('PFHandbookPro-Thin'), local('PFHandbookPro-Thin'),
+       url('#{$fontPath}/thin/PFHandbookPro-Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$fontPath}/thin/PFHandbookPro-Thin.woff2') format('woff2'), /* Super Modern Browsers */
+       url('#{$fontPath}/thin/PFHandbookPro-Thin.woff') format('woff'), /* Modern Browsers */
+       url('#{$fontPath}/thin/PFHandbookPro-Thin.ttf') format('truetype'), /* Safari, Android, iOS */
+}
